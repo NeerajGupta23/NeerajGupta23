@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - Passionate about **Java**, **Spring Boot**, and **React**
 - Learning **DevOps**, **Kafka**, and **Redis**
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
 <p>
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeerajGupta23&show_icons=true&theme=tokyonight" width="48%" />
@@ -60,7 +60,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - LinkedIn: [linkedin.com/in/neerajgupta23](https://linkedin.com/in/neerajgupta23)
 - Email: [230803neeraj@gmail.com](mailto:230803neeraj@gmail.com)
