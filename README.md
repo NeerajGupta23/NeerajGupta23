@@ -19,8 +19,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 **Languages:**  
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
